@@ -1,0 +1,113 @@
+
+  Crestron Toolbox v3.1221.0004
+
+  Install Path: C:\Program Files (x86)\Crestron\Toolbox
+
+  Data:
+                             Devices.rzinis:  160127         C:\Program Files (x86)\Crestron\Cresdb\Toolbox\Devices.rzinis
+                             Devices.rzinis:  220828         C:\Program Files (x86)\Crestron\Toolbox\Data\Devices.rzinis
+
+
+  Crestron Software:
+
+        Crestron Core 3 UI Controls........:  2.18.00.40     C:\Program Files (x86)\Crestron\Cresdb
+        Crestron D3 Pro....................:  3.05.001.00    C:\Program Files (x86)\Crestron\D3 Pro
+        Crestron D3 Pro Templates (Destiny:Black-Blue):  2.02.020.00    C:\Program Files (x86)\Crestron\Cresdb\Templates\D3 Pro
+        Crestron Database..................:  214.05.004.00  C:\Program Files (x86)\Crestron\Cresdb
+        Crestron Engraver..................:  5.4.27.02      C:\Program Files (x86)\Crestron\Engraver
+        Crestron iLux Designer.............:  2.01.05.00     Unavailable
+        Crestron MasterInstaller...........:  3.01.03.00     C:\Program Files (x86)\Crestron\MasterInstaller
+
+        Crestron Toolbox...................:  3.1221.0004.0  C:\Program Files (x86)\Crestron\Toolbox
+            +BPC8 Tool                     :  3.1221.0004    C:\Program Files (x86)\Crestron\Toolbox
+            +Complete Shell                :  3.1221.0004    Unavailable
+            +DINDALI2Tool                  :  2.09.153       C:\Program Files (x86)\Crestron\Toolbox
+            +DMTools                       :  3.1221.0004    Unavailable
+            +DSP128Shell                   :  3.1221.0004    C:\Program Files (x86)\Crestron\Toolbox
+            +Front End                     :  3.1221.0004    Unavailable
+            +Minimal Shell                 :  3.1221.0004    Unavailable
+            +Procise Tools                 :  3.1221.0004    C:\Program Files (x86)\Crestron\Toolbox
+            +Server                        :  3.1221.0004    C:\Program Files (x86)\Crestron\Toolbox
+
+        D3 Pro Templates (Destiny).........:  2.02.020.00    Unavailable
+        Device Database....................:  200.230.001.00 Unavailable
+        SIMPL Windows......................:  4.2000.00.00   Unavailable
+        SIMPL Windows Library..............:  508            Unavailable
+        SIMPL+ Cross Compiler..............:  1.3            Unavailable
+        VisionTools Pro-e..................:  6.2.02.08      C:\Program Files (x86)\Crestron\VtPro-e
+        XPanelConvert......................:  1.01.614       C:\Program Files (x86)\Crestron\XPanelConvert
+
+
+  Operating System:
+
+             Windows Version:  Microsoft Windows 10 Enterprise
+                  IE Version:  9.11.19041
+                         CPU:  Intel(R) Core(TM) i7-7820HQ CPU @ 2.90GHz (x8) @ 2904 MHz
+             Physical Memory:  23095 MB / 32613 MB
+              Virtual Memory:  1777 MB / 2047 MB
+                Admin Rights:  Yes
+                         DPI:  X:96 Y:96
+              Scaling Factor:  100
+                 UAC Enabled:  True
+      Virtualization Enabled:  True
+
+
+  Modules:
+                                 VptComServer.exe:    C:\Program Files (x86)\Crestron\Toolbox\VptComServer.exe
+                                   CmVptLib32.dll:    C:\Program Files (x86)\Crestron\Toolbox\CmVptLib32.dll
+                                      Toolbox.exe:    C:\Program Files (x86)\Crestron\Toolbox\Toolbox.exe
+                                     CmVptGui.dll:    C:\Program Files (x86)\Crestron\Toolbox\CmVptGui.dll
+                                     CmVptCOM.dll:    C:\Program Files (x86)\Crestron\Toolbox\CmVptCOM.dll
+                               VptAddressBook.dll:    C:\Program Files (x86)\Crestron\Toolbox\VptAddressBook.dll
+                                       SC_Lib.dll:    C:\Program Files (x86)\Crestron\Toolbox\SC_Lib.dll
+                                     libeay32.dll:    C:\Program Files\Common Files\Intel\WirelessCommon\libeay32.dll
+                                     SSLeay32.dll:    
+                                 CmFirmwareTB.dll:    C:\Program Files (x86)\Crestron\Toolbox\CmFirmwareTB.dll
+                                       CmPeq2.dll:    C:\Program Files (x86)\Crestron\Toolbox\cmpeq2.dll
+                             VptCtrlSysEngine.dll:    C:\Program Files (x86)\Crestron\Toolbox\VptCtrlSysEngine.dll
+                                 SmwPrgEngine.dll:    C:\Program Files (x86)\Crestron\Toolbox\SmwPrgEngine.dll
+
+  Tools:
+                                 Network Analyzer:    C:\Program Files (x86)\Crestron\Toolbox\NetworkAnalyzer.ocx
+                                         QM-Tools:    C:\Program Files (x86)\Crestron\Toolbox\AudioConfig.ocx
+               Crestron.Toolbox.Controls.BPC8Tool:    C:\Program Files (x86)\Crestron\Toolbox\Crestron.Toolbox.Controls.BPC8Tool.DLL
+          Crestron.Toolbox.Controls.DeviceLearner:    C:\WINDOWS\Microsoft.Net\assembly\GAC_MSIL\Crestron.Toolbox.Controls.DeviceLearner\v4.0_2.0.0.0__de947429dae412c8\Crestron.Toolbox.Controls.DeviceLearner.dll
+               Crestron.Toolbox.Controls.DMPSTool:    C:\Program Files (x86)\Crestron\Toolbox\Crestron.Toolbox.Controls.DMPSTool.DLL
+             Crestron.Toolbox.Controls.EasyConfig:    C:\WINDOWS\Microsoft.Net\assembly\GAC_MSIL\Crestron.Toolbox.Controls.EasyConfig\v4.0_1.0.1.1__de947429dae412c8\Crestron.Toolbox.Controls.EasyConfig.dll
+               Crestron.Toolbox.Controls.EDIDTool:    C:\Program Files (x86)\Crestron\Toolbox\Crestron.Toolbox.Controls.EDIDTool.DLL
+          Crestron.Toolbox.Controls.EnergyMonitor:    C:\Program Files (x86)\Crestron\Toolbox\Crestron.Toolbox.Controls.EnergyMonitor.DLL
+              Crestron.Toolbox.Controls.HDXSPTool:    C:\Program Files (x86)\Crestron\Toolbox\Crestron.Toolbox.Controls.HDXSPTool.DLL
+  Crestron.Toolbox.Controls.InfiNetDiagnosticTool:    C:\Program Files (x86)\Crestron\Toolbox\Crestron.Toolbox.Controls.InfiNetDiagnosticTool.DLL
+            Crestron.Toolbox.Controls.RGBHVHBTool:    C:\Program Files (x86)\Crestron\Toolbox\Crestron.Toolbox.Controls.RGBHVHBTool.DLL
+        Crestron.Toolbox.Controls.SecurityChecker:    C:\Program Files (x86)\Crestron\Toolbox\Crestron.Toolbox.Controls.SecurityChecker.DLL
+             Crestron.Toolbox.Controls.SonnexTool:    C:\Program Files (x86)\Crestron\Toolbox\Crestron.Toolbox.Controls.SonnexTool.DLL
+          Crestron.Toolbox.Controls.SystemMonitor:    C:\Program Files (x86)\Crestron\Toolbox\Crestron.Toolbox.Controls.SystemMonitor.DLL
+  Crestron.Toolbox.Controls.ThermostatConfiguration:    C:\Program Files (x86)\Crestron\Toolbox\Crestron.Toolbox.Controls.ThermostatConfiguration.DLL
+           Crestron.Toolbox.Controls.DINDALI2Tool:    C:\Program Files (x86)\Crestron\Toolbox\Crestron.Toolbox.Controls.DINDALI2Tool.DLL
+           Crestron.Toolbox.Controls.DINDALI2Tool:    C:\Program Files (x86)\Crestron\Toolbox\Crestron.Toolbox.Controls.DINDALI2Tool.DLL
+                           DeviceDiscoveryControl:    C:\Program Files (x86)\Crestron\Toolbox\DeviceDiscoveryControl.DLL
+                                           DMTool:    C:\Program Files (x86)\Crestron\Toolbox\DMTool.DLL
+                                     File Manager:    C:\Program Files (x86)\Crestron\Toolbox\FileManager.ocx
+                              Crestron MediaTools:    C:\Program Files (x86)\Crestron\Toolbox\MediaTools.ocx
+          Crestron.Toolbox.Controls.MultiDALITool:    C:\Program Files (x86)\Crestron\Toolbox\Crestron.Toolbox.Controls.MultiDALITool.DLL
+                         Network Device Tree View:    C:\Program Files (x86)\Crestron\Toolbox\NetTreeViewXCtrl.ocx
+                              Package Update Tool:    C:\Program Files (x86)\Crestron\Toolbox\PackageUpdate.ocx
+                            Power Management Tool:    C:\Program Files (x86)\Crestron\Toolbox\PowerSupplyTool.ocx
+                                     PROCISETools:    C:\Program Files (x86)\Crestron\Toolbox\PROCISETools.DLL
+                                   Script Manager:    C:\Program Files (x86)\Crestron\Toolbox\Scripter.ocx
+                                   SIMPL Debugger:    C:\Program Files (x86)\Crestron\Toolbox\SIMPL Debugger.ocx
+                            SMW Program Tree View:    C:\Program Files (x86)\Crestron\Toolbox\SmwPrgTreeViewXCtrl.ocx
+                                      System Info:    C:\Program Files (x86)\Crestron\Toolbox\SystemInfo.ocx
+                              Video Test Patterns:    C:\Program Files (x86)\Crestron\Toolbox\TestPatterns.ocx
+                                     Text Console:    C:\Program Files (x86)\Crestron\Toolbox\TextConsole2.ocx
+                             CEN-TIA Menu Builder:    C:\Program Files (x86)\Crestron\Toolbox\TIAMenuBuilder.ocx
+
+** Debug Settings **
+Logging Enabled = ON
+Full Time Logging = ON
+DBG Flag Server Scheduler = ON
+DBG Flag Autonomous Locks = OFF
+DBG Flag SignalDebug = OFF
+DBG Flag Auto Response Parser = OFF
+DBG Flag Show Client Info If Available = ON
+DBG Flag Full Physical Device Detection = OFF

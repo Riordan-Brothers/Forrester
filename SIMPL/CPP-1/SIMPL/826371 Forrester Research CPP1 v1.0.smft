@@ -1,0 +1,103 @@
+<Device Model="PAC2M">
+   <Network Type="Cresnet" Id="03">
+      <Device Model="C2N-CB-TS" DeviceId="25" Name="Art Lights (LV2W-Z9)"/>
+      <Device Model="C2N-CB-TS" DeviceId="26" Name="Corridor 1500 (LV1E-Z5)"/>
+      <Device Model="C2N-CB-TS" DeviceId="27" Name="Reception (LV1E-Z578)"/>
+      <Device Model="C2N-CB-TS" DeviceId="28" Name="Lobby 1500 (LV1E-Z6)"/>
+      <Device Model="C2N-CB-TS" DeviceId="29" Name="Reception (LV1E-Z123457)"/>
+      <Device Model="C2N-CB-TS" DeviceId="2B" Name="Office 1450 (LV1W-Z1)"/>
+      <Device Model="C2N-CB-TS" DeviceId="2C" Name="Corridor 1552 (LV1W-Z3)"/>
+      <Device Model="C2N-CB-TS" DeviceId="2D" Name="Corridor 1546 (LV1W-Z2)"/>
+      <Device Model="C2N-CB-TS" DeviceId="2E" Name="Corridor 1552 (LV1W-Z4)"/>
+      <Device Model="C2N-CB-TS" DeviceId="2F" Name="Office East 2420 (LV2E-Z2)"/>
+      <Device Model="C2N-CB-TS" DeviceId="30" Name="Elevator Lobby 2000 (LV2E-Z5)"/>
+      <Device Model="C2N-CB-TS" DeviceId="31" Name="Office East 2330 (LV2E-Z1)"/>
+      <Device Model="C2N-CB-TS" DeviceId="32" Name="Corridor 2450-2530-2540 (LV2E-Z4)"/>
+      <Device Model="C2N-CB-TS" DeviceId="33" Name="Office East 2490 (LV2E-Z6)"/>
+      <Device Model="C2N-CB-TS" DeviceId="34" Name="Office East 2400 (LV2E-Z3)"/>
+      <Device Model="C2N-CB-TS" DeviceId="35" Name="Art Lights 2 (LV2W-Z10)"/>
+      <Device Model="C2N-CB-TS" DeviceId="36" Name="Office East 2400 (LV2EZ3A6)"/>
+      <Device Model="C2N-CB-TS" DeviceId="37" Name="Office 2470 (LV2W-Z2)"/>
+      <Device Model="C2N-CB-TS" DeviceId="38" Name="Office West 2450 (LV2W-Z1)"/>
+      <Device Model="C2N-CB-TS" DeviceId="39" Name="Corridor 2546-2570-2554 (LV2W-Z4)"/>
+      <Device Model="C2N-CB-TS" DeviceId="3A" Name="Office 2480 (LV2W-Z3)"/>
+      <Device Model="C2N-CB-TS" DeviceId="3B" Name="Corridor 2546-2570-2554 (LV2W-Z4A)"/>
+      <Device Model="C2N-CB-TS" DeviceId="3C" Name="Office East 3420 (LV3E-Z2)"/>
+      <Device Model="C2N-CB-TS" DeviceId="3D" Name="Office East 3400 (LV3E-Z3A5)"/>
+      <Device Model="C2N-CB-TS" DeviceId="3E" Name="Office East 3430 (LV3E-Z1)"/>
+      <Device Model="C2N-CB-TS" DeviceId="3F" Name="Legal 3440 (LV3E-Z6)"/>
+      <Device Model="C2N-CB-TS" DeviceId="40" Name="Corridor 3542-3530-3540 (LV3E-Z4)"/>
+      <Device Model="C2N-CB-TS" DeviceId="41" Name="Elevator 3000 (LV3E-Z7)"/>
+      <Device Model="C2N-CB-TS" DeviceId="42" Name="Office East 3400 (LV3E-Z3)"/>
+      <Device Model="C2N-CB-TS" DeviceId="43" Name="Corridor 6550-6580 (LV6W-Z6)"/>
+      <Device Model="C2N-CB-TS" DeviceId="44" Name="Finance 350 (LV3W-Z1)"/>
+      <Device Model="C2N-CB-TS" DeviceId="45" Name="Corridor 3550-3580 (LV3W-Z5A)"/>
+      <Device Model="C2N-CB-TS" DeviceId="46" Name="Office 3470 (LV3W-Z2)"/>
+      <Device Model="C2N-CB-TS" DeviceId="47" Name="Office 3480 (LV3W-Z3)"/>
+      <Device Model="C2N-CB-TS" DeviceId="48" Name="Corridor 3570-3546 (LV3W-Z6)"/>
+      <Device Model="C2N-CB-TS" DeviceId="49" Name="Office 3480 (LV3W-Z4)"/>
+      <Device Model="C2N-CB-TS" DeviceId="4A" Name="Corridor 3550-3580 (LV3W-Z5)"/>
+      <Device Model="C2N-CB-TS" DeviceId="4B" Name="Office East 4420 (LV4E-Z4)"/>
+      <Device Model="C2N-CB-TS" DeviceId="4D" Name="Tech Ops 4430 (LV4E-Z2)"/>
+      <Device Model="C2N-CB-TS" DeviceId="4E" Name="Tech Ops 4430 (LV4E-Z2A)"/>
+      <Device Model="C2N-CB-TS" DeviceId="4F" Name="Help Desk 4440 (LV4E-Z1)"/>
+      <Device Model="C2N-CB-TS" DeviceId="50" Name="Help Desk 4440 (LV4E-Z1A)"/>
+      <Device Model="C2N-CB-TS" DeviceId="51" Name="Corridor 4542-4540-4530 (LV4E-Z3)"/>
+      <Device Model="C2N-CB-TS" DeviceId="52" Name="Elevator 4000 (LV4E-Z5)"/>
+      <Device Model="C2N-CB-TS" DeviceId="53" Name="Office East-Legal 4340-4380 (LV4E-Z67)"/>
+      <Device Model="C2N-CB-TS" DeviceId="54" Name="Office 4450 (LV4W-Z1)"/>
+      <Device Model="C2N-CB-TS" DeviceId="55" Name="Corridor 4550-4580 (LV4W-Z4)"/>
+      <Device Model="C2N-CB-TS" DeviceId="56" Name="Office 4470 (LV4W-Z2)"/>
+      <Device Model="C2N-CB-TS" DeviceId="57" Name="Corridor 4546-4570 (LV4W-Z5)"/>
+      <Device Model="C2N-CB-TS" DeviceId="58" Name="Office 4480 (LV4W-Z3)"/>
+      <Device Model="C2N-CB-TS" DeviceId="59" Name="Office 4480 (LV4W-Z3A)"/>
+      <Device Model="C2N-CB-TS" DeviceId="5A" Name="Office East 5420 (LV5E-Z2)"/>
+      <Device Model="C2N-CB-TS" DeviceId="5B" Name="Office East 5400 (LV5E-Z3A)"/>
+      <Device Model="C2N-CB-TS" DeviceId="5C" Name="Office East 5430 (LV5E-Z1)"/>
+      <Device Model="C2N-CB-TS" DeviceId="5D" Name="Executive 5440 (LV5E-Z6)"/>
+      <Device Model="C2N-CB-TS" DeviceId="5E" Name="Corridor 5542-5540-5530 (LV5E-Z4)"/>
+      <Device Model="C2N-CB-TS" DeviceId="5F" Name="Elevator 5000 (LV5E-Z5)"/>
+      <Device Model="C2N-CB-TS" DeviceId="60" Name="Office East 5400 (LV5E-Z37)"/>
+      <Device Model="C2N-CB-TS" DeviceId="61" Name="Office 5450 (LV5W-Z1)"/>
+      <Device Model="C2N-CB-TS" DeviceId="62" Name="Corridor 5550 (LV5W-Z4)"/>
+      <Device Model="C2N-CB-TS" DeviceId="63" Name="Corridor 5550-5580 (LV5W-Z4)"/>
+      <Device Model="C2N-CB-TS" DeviceId="64" Name="Office 5470 (LV5W-Z2)"/>
+      <Device Model="C2N-CB-TS" DeviceId="65" Name="Corridor 5546-5570 (LV5W-Z5)"/>
+      <Device Model="C2N-CB-TS" DeviceId="66" Name="Office 5480 (LV5W-Z3)"/>
+      <Device Model="C2N-CB-TS" DeviceId="67" Name="Office East 6420 (LV6E-Z2)"/>
+      <Device Model="C2N-CB-TS" DeviceId="68" Name="Office East 6400 (LV6E-Z3A)"/>
+      <Device Model="C2N-CB-TS" DeviceId="69" Name="Office East 6430 (LV6E-Z1)"/>
+      <Device Model="C2N-CB-TS" DeviceId="6A" Name="Elevator 6000 (LV6E-Z5)"/>
+      <Device Model="C2N-CB-TS" DeviceId="6B" Name="Corridor 6530-6540 (LV6E-Z6)"/>
+      <Device Model="C2N-CB-TS" DeviceId="6C" Name="Office East 6400 (LV6E-Z34)"/>
+      <Device Model="C2N-CB-TS" DeviceId="6E" Name="Office 6450 (LV6W-Z1)"/>
+      <Device Model="C2N-CB-TS" DeviceId="6F" Name="Office 6480 (LV6W-Z3)"/>
+      <Device Model="C2N-CB-TS" DeviceId="70" Name="Office 6470 (LV6W-Z2)"/>
+      <Device Model="C2N-CB-TS" DeviceId="71" Name="Corridor 6546-6570 (LV6W-Z5)"/>
+      <Device Model="GLXP-HSW8" DeviceId="8D" Name="LCP1E Slot 08"/>
+      <Device Model="GLXP-HSW8" DeviceId="8E" Name="LCP1E Slot 06"/>
+      <Device Model="GLXP-HSW8" DeviceId="8F" Name="LCP1W Slot 08"/>
+      <Device Model="GLXP-HSW8" DeviceId="90" Name="LCP1W Slot 06"/>
+      <Device Model="GLXP-HSW8" DeviceId="91" Name="LCP2E Slot 08"/>
+      <Device Model="GLXP-HSW8" DeviceId="92" Name="LCP2E Slot 06"/>
+      <Device Model="GLXP-HSW8" DeviceId="93" Name="LCP2W Slot 08"/>
+      <Device Model="GLXP-HSW8" DeviceId="94" Name="LCP2W Slot 06"/>
+      <Device Model="GLXP-HSW8" DeviceId="95" Name="LCP3E Slot 08"/>
+      <Device Model="GLXP-HSW8" DeviceId="96" Name="LCP3E Slot 06"/>
+      <Device Model="GLXP-HSW8" DeviceId="97" Name="LCP3W Slot 08"/>
+      <Device Model="GLXP-HSW8" DeviceId="98" Name="LCP3W Slot 06"/>
+      <Device Model="GLXP-HSW8" DeviceId="99" Name="LCP4E Slot 08"/>
+      <Device Model="GLXP-HSW8" DeviceId="9A" Name="LCP4E Slot 06"/>
+      <Device Model="GLXP-HSW8" DeviceId="9B" Name="LCP4W Slot 08"/>
+      <Device Model="GLXP-HSW8" DeviceId="9C" Name="LCP4W Slot 06"/>
+      <Device Model="GLXP-HSW8" DeviceId="9D" Name="LCP5E Slot 08"/>
+      <Device Model="GLXP-HSW8" DeviceId="9E" Name="LCP5E Slot 06"/>
+      <Device Model="GLXP-HSW8" DeviceId="9F" Name="LCP5W Slot 08"/>
+      <Device Model="GLXP-HSW8" DeviceId="A0" Name="LCP5W Slot 06"/>
+      <Device Model="GLXP-HSW8" DeviceId="A1" Name="LCP6E Slot 08"/>
+      <Device Model="GLXP-HSW8" DeviceId="A2" Name="LCP6E Slot 06"/>
+      <Device Model="GLXP-HSW8" DeviceId="A3" Name="LCP6W Slot 08"/>
+      <Device Model="GLXP-HSW8" DeviceId="A4" Name="LCP6W Slot 06"/>
+   </Network>
+   <Network Type="Ethernet" Id="04"/>
+</Device>
